@@ -1,0 +1,23 @@
+@charset "UTF-8";
+
+
+h1,p, a, div {
+ color: black;
+ text-align: center;
+  
+}
+
+body{
+    background-color: bisque;
+    font-family: 'Times New Roman', Times, serif;
+}
+a{ 
+    
+    color: black;
+
+}
+
+
+
+
+
